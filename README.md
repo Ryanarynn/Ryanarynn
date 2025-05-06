@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 ![Ryan](https://github-readme-stats.vercel.app/api?username=Ryanarynn&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WeissCurry&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ryanarynn&theme=vision-friendly-dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WeissCurry&icon=0&color=0)](https://visitcount.itsvg.in)
