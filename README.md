@@ -1,51 +1,64 @@
-<h1 align="center">Hi there, I'm Ryan 👋</h1>
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <b>Welcome to my GitHub profile!</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ryan+👨‍💻;Information+System+Student+%F0%9F%93%9A;Web+Developer+in+Progress+%E2%9A%99%EF%B8%8F;Always+Learning+%F0%9F%8D%93" alt="Typing SVG" />
 </p>
 
 ---
 
-🧑‍💻 **About Me**
+<h2 align="center">✨ About Me ✨</h2>
 
-- 🌱 I’m currently learning **React**, **Laravel**, and **MySQL**
-- 🔧 I'm passionate about building **real-world web apps**
-- 🎯 My goal: Become a **full-stack developer** who can code with confidence 💪
-- 🛠️ Projects I'm working on: _To-Do App_, _Booking System_, _UI Dashboard Design_
-- 🏥 Intern @ Jakarta Hajj Hospital | 🎓 Student of Information Systems
-- 🧠 Motto: _"Learn by building!"_
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
 
----
-
-🚀 **Tech Stack**
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- 🔭 I’m currently working on:
+  - 🛏️ Inpatient System (Bed Management, Patient Transfer, Monitoring)
+  - 🧾 UI/UX Dashboard Design for Hotel Syahida
+- 🌱 I’m learning: **React, Laravel, MySQL, and TailwindCSS**
+- ⚙️ Tech Playground: **Next.js**, **Figma**, **PHP**, **REST APIs**
+- 📍 Internship at **Rumah Sakit Haji Jakarta**
+- 🎓 Student of **Information Systems**
+- 💡 I believe in "Code first, learn fast."
 
 ---
 
-📊 **GitHub Stats**
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,mysql,tailwind,figma,php,nextjs,vscode" />
 </p>
 
 ---
 
-📫 **Let's Connect!**
+<h2 align="center">📊 GitHub Stats</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryanarynn&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanarynn&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
-✨ _Thanks for visiting my profile! Let's code and grow together!_ 🚀
+<h2 align="center">🎯 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Ryan Prananda/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ryanprananda131@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ryanarynn_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ryanarynn&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="150" />
+</p>
+
+<p align="center">💻 Happy coding and keep building awesome things!</p>
