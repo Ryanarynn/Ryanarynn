@@ -14,7 +14,6 @@
   - 🧾 UI/UX Dashboard Design for Hotel Syahida
 - 🌱 I’m learning: **React, Laravel, MySQL, and TailwindCSS**
 - ⚙️ Tech Playground: **Next.js**, **Figma**, **PHP**, **REST APIs**
-- 📍 Internship at **Rumah Sakit Haji Jakarta**
 - 🎓 Student of **Information Systems**
 - 💡 I believe in "Code first, learn fast."
 
