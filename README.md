@@ -21,6 +21,8 @@
 - 🎓 Student of **Information Systems**
 - 💡 I believe in "Code first, learn fast."
 
+
+
 ---
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
