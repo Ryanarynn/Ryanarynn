@@ -6,8 +6,9 @@
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
-
+<p
  <img src="https://github.com/Ryanarynn/Ryanarynn/blob/main/assets/astronaut-floating.gif" width="200"/>
+</p>  
 
 - 🔭 I’m currently working on:
   - 🛏️ Inpatient System (Bed Management, Patient Transfer, Monitoring)
