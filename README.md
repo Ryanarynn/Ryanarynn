@@ -3,16 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ryan+👨‍💻;Information+System+Student+📚;Creative+Web+Developer+⚡;Always+Learning+🌟" alt="Typing SVG" />
 </p>
 
-<!-- 🚀 Floating Astronaut GIF -->
-<p align="center">
-  <img src="https://github.com/Ryanarynn/Ryanarynn/blob/main/assets/astronaut-floating.gif" width="200"/>
-</p>
-
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+ <img src="https://github.com/Ryanarynn/Ryanarynn/blob/main/assets/astronaut-floating.gif" width="200"/>
 
 - 🔭 I’m currently working on:
   - 🛏️ Inpatient System (Bed Management, Patient Transfer, Monitoring)
@@ -20,8 +15,6 @@
 - ⚙️ Tech Playground: **Next.js**, **Figma**, **PHP**, **REST APIs**
 - 🎓 Student of **Information Systems**
 - 💡 I believe in "Code first, learn fast."
-
-
 
 ---
 
