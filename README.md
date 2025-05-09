@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently working on:
   - 🛏️ Inpatient System (Bed Management, Patient Transfer, Monitoring)
-  - 🧾 UI/UX Dashboard Design for Hotel Syahida
 - 🌱 I’m learning: **React, Laravel, MySQL, and TailwindCSS**
 - ⚙️ Tech Playground: **Next.js**, **Figma**, **PHP**, **REST APIs**
 - 🎓 Student of **Information Systems**
