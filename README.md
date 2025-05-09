@@ -12,7 +12,7 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
 - 🔭 I’m currently working on:
   - 🛏️ Inpatient System (Bed Management, Patient Transfer, Monitoring)
